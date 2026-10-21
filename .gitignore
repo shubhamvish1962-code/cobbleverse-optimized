@@ -1,0 +1,7 @@
+mods/
+logs/
+crash-reports/
+saves/
+backups/
+*.zip
+*.log
